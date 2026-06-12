@@ -1,2 +1,1 @@
-# starbucks-powerbi-dashboard
-Power BI dashboard analyzing Starbucks beverage nutrition (calories, sugar, caffeine, carbs) and global store locations across brands like Starbucks, Teavana, and Evolution Fresh
+This Power BI dashboard analyzes Starbucks beverage nutrition data and global store locations across Starbucks-owned brands (Starbucks, Teavana, Evolution Fresh, Coffee House Holdings). It includes custom DAX measures for calculating averages (calories, sugar, caffeine, carbs), category-wise comparisons, and dynamic KPIs that respond to slicer selections like protein range and beverage prep type. The dashboard spans two interactive pages — one focused on nutritional insights, the other on global store distribution.
